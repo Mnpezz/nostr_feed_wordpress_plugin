@@ -104,14 +104,6 @@ Custom CSS classes:
 - JavaScript enabled in the browser
 - WebLN-compatible wallet for zaps (optional)
 
-## Support
-
-For support, feature requests, or bug reports, please visit the [GitHub repository](https://github.com/your-username/nostr-feed).
-
-## License
-
-This plugin is licensed under the GPL v2 or later.
-
 ## Changelog
 
 ### 1.0
