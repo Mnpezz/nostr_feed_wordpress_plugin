@@ -1,10 +1,9 @@
 <?php
 /*
 Plugin Name: Nostr Feed
-Plugin URI: https://github.com/your-username/nostr-feed
 Description: Display posts from specified Nostr npubs
 Version: 1.0
-Author: Your Name
+Author: mnpezz
 License: GPL v2 or later
 */
 
